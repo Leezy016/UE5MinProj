@@ -382,7 +382,7 @@
                 "\t\"Description\": \"\",",
                 "\t\"Modules\": [",
                 "\t\t{",
-                "\t\t\t\"Name\": \"YOUR_PROJ_NAME\",",
+                "\t\t\t\"Name\": \"${TM_FILENAME/([^\\.]+)\\..*/$1/}\",",
                 "\t\t\t\"Type\": \"Runtime\",",
                 "\t\t\t\"LoadingPhase\": \"Default\"",
                 "\t\t}",
