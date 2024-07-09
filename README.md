@@ -8,3 +8,7 @@ a vscode adaptation for [Unreal Engine C++ Project Setup, From Scratch](https://
 2. double clik **Min.uproject**, let unreal engine build the source code, it could take a while  
 
 3. enjoy your clean project without all the visual studio stuff  
+
+# use snippets
+1. read the snippets for usage  
+2. add **vscode-unreal-snippets.code-snippets** to your vs code  
